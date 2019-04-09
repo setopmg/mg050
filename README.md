@@ -6,6 +6,12 @@ Bases já disponibilizadas:
 
 - Tráfego horário realizado nas praças de pedágio.
 
+Para acessar os dados do pacote `mg050`:
+```
+library(devtools)
+install_github("setopmg/mg050")
+library(mg050)
+```
 
 
 
@@ -14,3 +20,10 @@ Bases já disponibilizadas:
 *Available datasets:*
 
 - *Hourly classified toll's traffic data.*
+
+To use `mg050`:
+```
+library(devtools)
+install_github("setopmg/mg050")
+library(mg050)
+```
