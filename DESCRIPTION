@@ -1,0 +1,12 @@
+Package: mg050
+Type: Package
+Title: Data package of PPP MG-050 data.
+Version: 0.1.0
+Author: c(
+    person("Samira", "Marx", email = "samira.marx@transportes.mg.gov.br", role = c("aut", cre"),
+    person("Secretaria de Estado de Transportes e Obras Públicas de Minas Gerais", email = "subrt@transportes.mg.gov.br", role = "own"))
+Maintainer: Samira Marx <samira.marx@transportes.mg.gov.br>
+Description: Datasets originated from de MG-050 road public-private partnership. Data covers the toll period of the project - 12th June 2008 to the present.R (>= 3.5.2)
+License: CC0-1.0
+Encoding: UTF-8
+LazyData: true
